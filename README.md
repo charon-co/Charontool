@@ -42,6 +42,6 @@ CharonTool integrates, interfaces with, and builds upon several remarkable open-
 
 ## ⚖️ License & Disclaimer
 
-* CharonTool is licensed under the [MIT License](LICENSE).
+* CharonTool is free software provided under the [CharonTool Software License & Terms of Use](LICENSE) for personal, non-commercial use.
 * All third-party tools, trademarks, and logos are property of their respective creators and maintainers.
 * This tool is intended for personal software management and interoperability.
