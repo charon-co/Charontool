@@ -20,9 +20,6 @@ CharonTool integrates, interfaces with, and builds upon several remarkable open-
 * **[BetterSteamTools](https://github.com/madoiscool/BetterSteamTools)** by **[madoiscool](https://github.com/madoiscool)**
   * Enhanced OpenSteamTool fork providing `config/stplug-in` Lua plugin support and dynamic TOML configuration.
 
-* **[LumaCore](https://github.com/KoriaPolis/LumaCore)** by **[KoriaPolis](https://github.com/KoriaPolis)**
-  * Next-generation Steam client hooking DLL runtime and payload manager.
-
 * **[Steamless](https://github.com/atom0s/Steamless)** by **[atom0s](https://github.com/atom0s)**
   * DRM unpacker utility and stub stripper engine.
 
