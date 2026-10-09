@@ -6,53 +6,27 @@ A modern, high-performance desktop application for managing Steam game installat
 
 ---
 
-## 💖 Credits & Acknowledgments
+## Credits
 
-CharonTool integrates, interfaces with, and builds upon several remarkable open-source projects created and maintained by the community. We extend our immense gratitude to the following authors and projects:
+### Tools & Runtimes
+* **[DepotDownloaderMod](https://github.com/GogoVang/DepotDownloaderMod)** by [GogoVang](https://github.com/GogoVang) & [SteamAutoCracks](https://github.com/SteamAutoCracks) (based on [DepotDownloader](https://github.com/SteamRE/DepotDownloader))
+* **[OpenSteamTool](https://github.com/OpenSteam001/OpenSteamTool)** by [OpenSteam001](https://github.com/OpenSteam001)
+* **[BetterSteamTools](https://github.com/madoiscool/BetterSteamTools)** by [madoiscool](https://github.com/madoiscool)
+* **[Steamless](https://github.com/atom0s/Steamless)** by [atom0s](https://github.com/atom0s)
+* **[SmokeAPI](https://github.com/acidicoala/SmokeAPI)** by [acidicoala](https://github.com/acidicoala)
+* **[SteamAutoCrack](https://github.com/SteamAutoCrack/SteamAutoCrack)**
+* **[Goldberg Emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator)** by [Mr_Goldberg](https://gitlab.com/Mr_Goldberg)
+* **[Steam Achievement Manager (SAM)](https://github.com/gibbed/SteamAchievementManager)** by [Rick (gibbed)](https://github.com/gibbed)
 
-### Core Tools & Runtimes
+### Services & Providers
+* **[Hubcap Manifest](https://hubcapmanifest.com)** — Premium manifest provider
+* **[Online-Fix.me](https://online-fix.me)** — Online fix provider
+* **[PeronDepot](https://api.perondepot.xyz)** — Online fix provider
 
-* **[DepotDownloaderMod](https://github.com/GogoVang/DepotDownloaderMod)** by **[GogoVang](https://github.com/GogoVang)** & **[SteamAutoCracks](https://github.com/SteamAutoCracks)**
-  * High-speed multi-connection Steam depot downloader with support for manifest files, custom keys, and application tokens.
-  * *Original upstream project:* **[DepotDownloader](https://github.com/SteamRE/DepotDownloader)** by the **[SteamRE Team](https://github.com/SteamRE)**.
-
-* **[OpenSteamTool](https://github.com/OpenSteam001/OpenSteamTool)** by **[OpenSteam001](https://github.com/OpenSteam001)**
-  * Steam manifest injection runtime, client hooking DLLs, and seamless mode management.
-
-* **[BetterSteamTools](https://github.com/madoiscool/BetterSteamTools)** by **[madoiscool](https://github.com/madoiscool)**
-  * Enhanced OpenSteamTool fork providing `config/stplug-in` Lua plugin support and dynamic TOML configuration.
-
-* **[Steamless](https://github.com/atom0s/Steamless)** by **[atom0s](https://github.com/atom0s)**
-  * DRM unpacker utility and stub stripper engine.
-
-* **[SmokeAPI](https://github.com/acidicoala/SmokeAPI)** by **[acidicoala](https://github.com/acidicoala)**
-  * Steam API and DLC hooking proxy runtime.
-
-* **[SteamAutoCrack](https://github.com/SteamAutoCrack/SteamAutoCrack)** by the **[SteamAutoCrack Team](https://github.com/SteamAutoCrack)**
-  * Manifest generation utility and automated standalone packaging engine.
-
-* **[Goldberg Emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator)** by **[Mr_Goldberg](https://gitlab.com/Mr_Goldberg)**
-  * Standalone Steam emulator; supported across CharonTool's offline achievement scanner, local cloud save migrator, and SteamAutoCrack integration.
-
-* **[Steam Achievement Manager (SAM)](https://github.com/gibbed/SteamAchievementManager)** by **[Rick (gibbed)](https://github.com/gibbed)**
-  * The core achievement engine (`SAM.API.dll`) powering CharonTool's native in-app achievement manager and headless CLI for reading, unlocking, and managing Steam achievements.
-
-### Community Services & Game Fixes
-
-* **[Hubcap Manifest](https://hubcapmanifest.com)** ([hubcapmanifest.com](https://hubcapmanifest.com))
-  * Premium manifest provider.
-
-* **[Online-Fix.me](https://online-fix.me)** ([online-fix.me](https://online-fix.me))
-  * Online fix provider.
-
-* **[PeronDepot](https://api.perondepot.xyz)** ([api.perondepot.xyz](https://api.perondepot.xyz))
-  * Online fix provider.
-
-### Libraries & Core Utilities
-
-* **[bytenode](https://github.com/OsamaAbbas/bytenode)** by **[Osama Abbas](https://github.com/OsamaAbbas)** — V8 bytecode compilation for Electron and Node.js.
-* **[simple-vdf](https://github.com/rossengeorgiev/vdf-parser)** by **[Rossen Georgiev](https://github.com/rossengeorgiev)** — Valve KeyValues (ACF / VDF) parser and serializer.
-* **[7zip-bin](https://github.com/develar/7zip-bin)** by **[Vladimir Krivosheev](https://github.com/develar)** — 7-Zip standalone binaries for package decompression.
+### Libraries
+* **[bytenode](https://github.com/OsamaAbbas/bytenode)** by [Osama Abbas](https://github.com/OsamaAbbas)
+* **[simple-vdf](https://github.com/rossengeorgiev/vdf-parser)** by [Rossen Georgiev](https://github.com/rossengeorgiev)
+* **[7zip-bin](https://github.com/develar/7zip-bin)** by [Vladimir Krivosheev](https://github.com/develar)
 
 ---
 
