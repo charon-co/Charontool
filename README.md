@@ -44,7 +44,7 @@ CharonTool integrates, interfaces with, and builds upon several remarkable open-
   * Reliable manifest search and high-speed package delivery API provider with secure token authentication.
 
 * **[Online-Fix.me](https://online-fix.me)** ([online-fix.me](https://online-fix.me))
-  * Community multiplayer fix provider and game launcher configuration (`-onlinefix`).
+  * Community multiplayer fix provider.
 
 * **[PeronDepot](https://api.perondepot.xyz)** ([api.perondepot.xyz](https://api.perondepot.xyz))
   * Community depot package indexing and download archive provider.
