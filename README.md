@@ -32,6 +32,14 @@ CharonTool integrates, interfaces with, and builds upon several remarkable open-
 * **[Goldberg Emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator)** by **[Mr_Goldberg](https://gitlab.com/Mr_Goldberg)**
   * Standalone Steam emulator; supported across CharonTool's offline achievement scanner, local cloud save migrator, and SteamAutoCrack integration.
 
+* **[Steam Achievement Manager (SAM)](https://github.com/gibbed/SteamAchievementManager)** by **[Rick (gibbed)](https://github.com/gibbed)**
+  * The core achievement engine (`SAM.API.dll`) powering CharonTool's native in-app achievement manager and headless CLI for reading, unlocking, and managing Steam achievements.
+
+### Manifest & Online Services
+
+* **[Hubcap Manifest](https://hubcapmanifest.com)** ([hubcapmanifest.com](https://hubcapmanifest.com))
+  * Reliable manifest search and high-speed package delivery API provider with secure token authentication.
+
 ### Libraries & Core Utilities
 
 * **[bytenode](https://github.com/OsamaAbbas/bytenode)** by **[Osama Abbas](https://github.com/OsamaAbbas)** — V8 bytecode compilation for Electron and Node.js.
