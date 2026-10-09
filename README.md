@@ -20,6 +20,9 @@ CharonTool integrates, interfaces with, and builds upon several remarkable open-
 * **[BetterSteamTools](https://github.com/madoiscool/BetterSteamTools)** by **[madoiscool](https://github.com/madoiscool)**
   * Enhanced OpenSteamTool fork providing `config/stplug-in` Lua plugin support and dynamic TOML configuration.
 
+* **[LumaCore](https://github.com/KoriaPolis/LumaCore)** by **[KoriaPolis](https://github.com/KoriaPolis)**
+  * Next-generation Steam client hooking DLL runtime and payload manager.
+
 * **[Steamless](https://github.com/atom0s/Steamless)** by **[atom0s](https://github.com/atom0s)**
   * DRM unpacker utility and stub stripper engine.
 
@@ -35,10 +38,16 @@ CharonTool integrates, interfaces with, and builds upon several remarkable open-
 * **[Steam Achievement Manager (SAM)](https://github.com/gibbed/SteamAchievementManager)** by **[Rick (gibbed)](https://github.com/gibbed)**
   * The core achievement engine (`SAM.API.dll`) powering CharonTool's native in-app achievement manager and headless CLI for reading, unlocking, and managing Steam achievements.
 
-### Manifest & Online Services
+### Community Services & Game Fixes
 
 * **[Hubcap Manifest](https://hubcapmanifest.com)** ([hubcapmanifest.com](https://hubcapmanifest.com))
   * Reliable manifest search and high-speed package delivery API provider with secure token authentication.
+
+* **[Online-Fix.me](https://online-fix.me)** ([online-fix.me](https://online-fix.me))
+  * Community multiplayer fix provider and game launcher configuration (`-onlinefix`).
+
+* **[PeronDepot](https://api.perondepot.xyz)** ([api.perondepot.xyz](https://api.perondepot.xyz))
+  * Community depot package indexing and download archive provider.
 
 ### Libraries & Core Utilities
 
