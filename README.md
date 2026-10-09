@@ -2,6 +2,8 @@
 
 A modern, high-performance desktop application for managing Steam game installations, manifests, cloud saves, achievements, and integration utilities.
 
+**Official Discord:** https://discord.gg/charon
+
 ---
 
 ## 💖 Credits & Acknowledgments
