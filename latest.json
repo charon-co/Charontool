@@ -1,8 +1,8 @@
 {
-  "version": "7.0.4",
-  "downloadUrl": "https://github.com/charon-co/Charontool/releases/download/v7.0.4/CharonTool.exe",
-  "releaseUrl": "https://github.com/charon-co/Charontool/releases/tag/v7.0.4",
-  "sha256": "3b3f08180877773f40d2086af1dca401cc726e07458cb73fcdfa1ccdfcffc3a0",
+  "version": "7.0.5",
+  "downloadUrl": "https://github.com/charon-co/Charontool/releases/download/v7.0.5/CharonTool.exe",
+  "releaseUrl": "https://github.com/charon-co/Charontool/releases/tag/v7.0.5",
+  "sha256": "5e4b7c683dc259e11ef7347ac431972297f587f304692adeb636684dbe6dd3e0",
   "notes": "",
-  "publishedAt": "2026-10-15T12:12:37.302Z"
+  "publishedAt": "2026-10-20T17:20:35.547Z"
 }
